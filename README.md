@@ -5,43 +5,28 @@ You are tasked with developing a sophisticated mobile application using React Na
 
 # Task Components:
 
-#UI/UX Design:
+### UI/UX Design:
 
-* Design an engaging and visually appealing user interface with screens for browsing movies, searching, filtering, and viewing movie details.
+- Design an engaging and visually appealing user interface with screens for showing ten movies, with ability to search and filter with a child component for showing some details about the movies when clicked on the row.
 
-* Implement fluid animations, transitions, and gestures to enhance user interaction and experience.
+- Implement fluid animations, transitions, and gestures to enhance user interaction and experience.
 
-* Ensure adherence to platform-specific design guidelines for iOS and Android.
+### API Integration:
 
-#API Integration:
+- Integrate with a API(you can use TMDb API for movie data)
 
-* Integrate with multiple APIs (e.g., TMDb API for movie data, YouTube API for trailers, OpenWeatherMap API for weather information related to 
-  movie locations).
+### State Management:
 
-* Implement complex endpoints for fetching movie lists based on various criteria (e.g., genre, release year, popularity) and retrieving detailed 
-  movie information.
+- Utilize state management to handle asynchronous actions, side effects.
 
-#State Management:
+- Implement caching and synchronization strategies to optimize data fetching and minimize network requests.
 
-* Utilize advanced state management techniques, such as Redux t, to handle asynchronous actions, side effects, and complex data flows.
+### Navigation:
 
-* Implement caching and synchronization strategies to optimize data fetching and minimize network requests.
+- Implement React Navigation with a drawer navigation to navigate between two screens, one home and the second movie list view. You can show what you like on the home screen.
 
-#Navigation:
+### Performance Optimization:
 
-* Implement a sophisticated navigation system using React Navigation with nested navigators, custom transitions, and deep linking.
-
-* Include tab navigation for different sections of the app (e.g., Home, Discover, Favorites) and stack navigation for navigating between screens 
-  within each section.
-
-#Directions & Location-based Features:
-
-* Enable users to get directions to movie theaters using Google Maps directions API.
- 
-#Performance Optimization:
-
-* Optimize app performance by profiling and optimizing critical paths, reducing memory usage, and minimizing UI thread blocking.
-
-* Implement image caching and lazy loading techniques to enhance loading times and scrolling performance.
+- Implement image caching and lazy loading techniques to enhance loading times and scrolling performance.
 
 # Good Luck!
