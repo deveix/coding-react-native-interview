@@ -3,10 +3,11 @@
 Task Overview:
 You are tasked with developing a sophisticated mobile application using React Native that provides users with advanced features for discovering and exploring movies. The application should offer a seamless and immersive experience, leveraging cutting-edge technologies and best practices in React Native development.
 
-Task Components:
+# Task Components:
+
 #UI/UX Design:
 
-Design an engaging and visually appealing user interface with screens for browsing movies, searching, filtering, and viewing movie details.
+.Design an engaging and visually appealing user interface with screens for browsing movies, searching, filtering, and viewing movie details.
 
 Implement fluid animations, transitions, and gestures to enhance user interaction and experience.
 
