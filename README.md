@@ -7,7 +7,7 @@ You are tasked with developing a sophisticated mobile application using React Na
 
 #UI/UX Design:
 
-.Design an engaging and visually appealing user interface with screens for browsing movies, searching, filtering, and viewing movie details.
+Design an engaging and visually appealing user interface with screens for browsing movies, searching, filtering, and viewing movie details.
 
 Implement fluid animations, transitions, and gestures to enhance user interaction and experience.
 
